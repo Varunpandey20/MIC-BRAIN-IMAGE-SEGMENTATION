@@ -1,1 +1,1 @@
-# CS736-Medical-image-Computing
+# Brain Image Segmentation
